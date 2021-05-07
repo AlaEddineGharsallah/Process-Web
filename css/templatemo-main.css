@@ -160,6 +160,7 @@ a:hover {
 .baner-content {
     text-align: center;
     background-image: url(../img/1st-section.jpg);
+    backdrop-filter: blur(10px);
 }
 
 .baner-content h1 {
@@ -408,7 +409,7 @@ section {
     outline: none;
     border: none;
     box-shadow: none;
-    height: 165px;
+    height: 82px;
     max-height: 220px;
     width: 100%;
     margin-bottom: 25px;
@@ -746,4 +747,31 @@ body.lb-disable-scrolling {
     cursor: pointer;
     filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
     opacity: 1;
+}
+
+.content h1 {
+    position: absolute;
+    font-weight: 400;
+    font-size: 48px;
+    color: #fff;
+}
+
+.content h1:nth-child(1) {
+    color: #fff;
+    -webkit-text-stroke: 2px #fff;
+}
+
+.content h1:nth-child(2) {
+    color: #40c40f;
+    animation: animate 4s ease-in-out infinite;
+}
+
+@keyframes animate {
+    0%,
+    100% {
+        clip-path: polygon( 0% 45%, 15% 44%, 32% 50%, 54% 60%, 70% 61%, 84% 59%, 100% 52%, 100% 100%, 0% 100%);
+    }
+    50% {
+        clip-path: polygon( 0 60%, 16% 65%, 34% 66%, 51% 62%, 67% 50%, 84% 45%, 100% 46%, 100% 100%, 0% 100%);
+    }
 }
