@@ -1,0 +1,81 @@
+{
+    "intro": {
+        "citation-1": "Qui maîtrise le coding,",
+        "citation-2": "maîtrise le monde ...",
+        "bouton": "Découvrir plus",
+        "adresse-valeur": "Avenue 14 Janvier 2011 Béni-Khiar 8060, Tunisie"
+    },
+
+    "services": {
+        "parag-1": "Process Web est une boite de création et de dévéloppement des sites Web vitrine, dynamique et E-commerce. Nous sommes une équipe jeune, dynamique et profetionnelle permet de vous garantir la meilleur qualité avec date un livraison le plus satifaisant.",
+        "parag-2": "Réalisation des projets, clé en main, des sites web perferments avec les promesses retenues. On met en œuvre nos compétences pour vous proposer à chaque étape du développement de votre site Web, de nouveaux concepts et de solutions idéales capables d'améliorer vos projets, combinant la conception originale, la qualité graphique et l'efficacité du coding.",
+        "parag-3": "Toute détermination de la gestion communautaire doit être bien établie en fonction des objectifs et des fonds de chaque client. Pour cela, notre équipe responsable communication dédié pour votre projet est disponible et offre un plan d'action détaillé. Ceci est disponible sur Skype et par téléphone pour répondre aux modifications dans votre projet dans les meilleurs délais.",
+        "valeur": "Valeur",
+        "parag-4": "Les qualités et les valeurs qui représentent les fondations de notre entreprise Process Web, ainsi que la passion que nous réservons pour notre métier, nous poussent, continuellement, à réaliser que chez nous, le client est un partenaire durable !",
+
+        "s1": {
+            "titre": "Donnez Vie A Votre Site Web",
+            "citation": "Vous possédez un site web? Mais ...",
+            "li1": "Ce n'est plus pertinent",
+            "li2": "Son design est non à jour",
+            "li3": "Dégrade l'image de votre société",
+            "li4": "Il ne coïncide plus avec vos affaires."
+        },
+
+        "s2": {
+            "titre": "Site Web Vitrine",
+            "parag1": "Ce type de site Web est une présentation à la Société et ils permettent aux visiteurs de prendre vos contacts.",
+            "parag2": "Désormais, le réseau est la principale ressource pour la recherche d'informations. Alors avoir un site internet vitrine s’adresse à tous les secteurs d’activité."
+        },
+
+        "s3": {
+            "titre": "Site Web Dynamique",
+            "citation1": "Autres avantanges offrent ce type de site",
+            "parag1": "ll peut contrôler complètement sa parole et son image, car il peut modifier ou changer ses outils de communication à volonté.",
+            "citation2": "Suis-je vraiment autonome dans la publication de nouveaux contenu ?",
+            "parag2": "Bien sûr, avec Procces Web vous êtes le seul propriétaire de votre site Web et dans votre administration totalement autonome. La conception du site Web enseigne également enseigner l'utilisation d'outils différents à votre disposition: c'est aussi notre travail en tant qu'Process Web."
+        },
+
+        "s4": {
+            "titre": "Site Web E-commerce",
+            "citation": "Augmenter votre chiffre d'affaires, chez Process Web, par la",
+            "li1": "Gestion d'un panier virtuel",
+            "li2": "Gestion du stock en temps réel",
+            "li3": "Tout protocole de paiement possible",
+            "li4": "Nombre de produits et pages illimités",
+            "li5": "Gestion des tarifs, remises et promotions",
+            "li6": "Recommander vos produits sur les réseaux sociaux",
+            "li7": "Gestion des images des produits (zoom, agrandissement, détails etc.)",
+            "li8": "Accroissement du nombre de clients potentiels. Se positionner sur le web permet de cibler de clientèles possible."
+        }
+
+    },
+
+    "fondateurs": {
+        "titre": "FondateursFondateurs",
+        "tab1": {
+            "titre": "Mot des fondateurs",
+            "parag1": "Le plus important est le savoir-faire et l'esprit d'équipe, le défi est la satisfaction du client et le développement professionnel des collaborateurs. Nous sommes à la base des profils ingénieurs industriels, nos patiances du domaine informatique et précisément notre flamme d'amour de développement Web, unis à notre courage, nous ont poussé vers la fondation ProcessWeb.",
+            "citation": "Faire ce que nous aimerons c'est plus qu'un travail !"
+        },
+
+        "tab2": {
+            "parag1": "La passion, est un moteur dont personne ne mesure la puissance. Le marketing digital (conseil, accompagnement, mise en place de stratégie, etc.), notamment la création des sites internet. En d'autres termes, fondé mon organisation spécialisée dans la communication interactive c'etait toujours mon principal objectif ambitieux.",
+            "citation": "Fondateur : Technico-Commercial"
+        },
+
+        "tab3": {
+            "parag1": "Comme la mojorité, j'ai pensé à l'immigration, mais j'ai trouvé que je pouvais voir les choses positivement et depuis, j'ai décidé de créer ma propre entreprise. Fonder une entreprise, est devenu ma possibilité d'épanouir librement et de consacrer mon énergie à des choses qui me passionnent.",
+            "citation": "Fondateur : Responsable Technique"
+        }
+    },
+
+    "contact": {
+        "li1": "Votre nom et pénom...",
+        "li2": "Votre société...",
+        "li3": "Votre email...",
+        "li4": "Votre message...",
+        "bouton1": "Envoyez Message",
+        "bouton2": "Haut"
+    }
+}

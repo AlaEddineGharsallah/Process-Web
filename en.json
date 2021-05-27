@@ -1,0 +1,81 @@
+{
+    "intro": {
+        "citation-1": "",
+        "citation-2": "",
+        "bouton": "",
+        "adresse-valeur": ""
+    },
+
+    "services": {
+        "parag-1": "",
+        "parag-2": "",
+        "parag-3": "",
+        "valeur": "Value",
+        "parag-4": "",
+
+        "s1": {
+            "titre": "",
+            "citation": "",
+            "li1": "",
+            "li2": "",
+            "li3": "",
+            "li4": ""
+        },
+
+        "s2": {
+            "titre": "",
+            "parag1": "",
+            "parag2": ""
+        },
+
+        "s3": {
+            "titre": "",
+            "citation1": "",
+            "parag1": "",
+            "citation2": "",
+            "parag2": ""
+        },
+
+        "s4": {
+            "titre": "Donnez Vie A Votre Site Web",
+            "citation": "Vous possédez un site web? Mais ...",
+            "li1": "",
+            "li2": "",
+            "li3": "",
+            "li4": "",
+            "li5": "",
+            "li6": "",
+            "li7": "",
+            "li8": ""
+        }
+
+    },
+
+    "fondateurs": {
+        "titre": "",
+        "tab1": {
+            "titre": "",
+            "parag1": "",
+            "citation": ""
+        },
+
+        "tab2": {
+            "parag1": "",
+            "citation": ""
+        },
+
+        "tab3": {
+            "parag1": "",
+            "citation": ""
+        }
+    },
+
+    "contact": {
+        "li1": "",
+        "li2": "",
+        "li3": "",
+        "li4": "",
+        "bouton1": "",
+        "bouton2": "Top"
+    }
+}
